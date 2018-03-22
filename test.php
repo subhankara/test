@@ -14,7 +14,14 @@
     echo "test1";
     echo "testdd";
 
-        print "Merge 4 ";
+    print "Merge 4 ";
+    echo "test1";
+    echo "testdd";
+    print "Merge 4 ";
+    echo "test1";
+    echo "testdd";
+
+    print "Merge 4 ";
     echo "test1";
     echo "testdd";
     print "Merge 4 ";
