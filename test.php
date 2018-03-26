@@ -1,7 +1,7 @@
 <?php
  function abc(){
-  echo "dsdsd";
+  echo "test";
  }
  abc();
- 
+
 ?>
